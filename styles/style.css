@@ -6,7 +6,7 @@
 
 body {
     font-family: sans-serif;
-    background: linear-gradient(-25deg, purple 50%, yellow);
+    background: linear-gradient(-25deg, rgb(0, 145, 255), #FFF);
     background-repeat: repeat;
     color: #FFF;
 }
